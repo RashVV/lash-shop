@@ -30,5 +30,5 @@ Disallow: /*&filter_sub_category=
 Disallow: /*?filter_description=
 Disallow: /*&filter_description=
 Clean-param: tracking
-Sitemap: https://lash-shop.com.ua/sitemap.xml
+Sitemap: http://lash-shop.com.ua/index.php?route=extension/feed/google_sitemap
 Host: lash-shop.com.ua
